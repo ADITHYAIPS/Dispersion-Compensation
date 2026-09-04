@@ -6,6 +6,8 @@ Design and simulate a fiber optic system using dispersion-compensating fiber to 
 
 ## Theory
 <img width="1398" height="500" alt="image" src="https://github.com/user-attachments/assets/a922bb4a-e871-4643-96a5-b78350cfb8d1" />
+
+
 Therefore, given target values for chromatic dispersion and attenuation loss plus specifications of the transmitter, fiber, and receiver, one can determine the lengths of the transmission fiber and the DCF by solving the above two equations simultaneously.
 
 ---
@@ -29,7 +31,9 @@ Therefore, given target values for chromatic dispersion and attenuation loss plu
 ## Calculations
 1. Determine the maximum allowable fiber loss  
 2. Determine the maximum allowable chromatic dispersion  
-3. Based on the results of (1) and (2), determine the lengths of the transmission fiber and the DCF  
+3. Based on the results of (1) and (2), determine the lengths of the transmission fiber and the DCF
+   
+<img width="800" height="800" alt="WhatsApp Image 2026-08-19 at 9 26 55 AM" src="https://github.com/user-attachments/assets/c9043263-71b6-4e88-bbb9-8e280cfccbea" />
 
 ---
 
@@ -67,14 +71,10 @@ The main physical components of this layout are:
 ---
 
 ## Further Simulation and Analysis
-- Set the DCF length to 0 and run the simulation again.
-- Record similar measurements for comparison.
+- Set the DCF length to 0 and run the simulation again.  
+- Record similar measurements for comparison.  
 
-## Simulation
-- <img width="1045" height="571" alt="image" src="https://github.com/user-attachments/assets/ed910647-7fbe-44e7-9b7d-e6c487753e5e" />
-- <img width="1040" height="590" alt="image" src="https://github.com/user-attachments/assets/bc6f687e-8783-4a52-931e-69bf83206f41" />
-## table 
-<img width="1280" height="831" alt="WhatsApp Image 2026-05-14 at 1 49 10 PM" src="https://github.com/user-attachments/assets/629e75dc-2685-445c-bc30-7dd7046d660e" />
 ---
+
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
